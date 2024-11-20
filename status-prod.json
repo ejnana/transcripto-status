@@ -1,4 +1,4 @@
 {
-    "status": 400,
-    "message": "<strong>TranscripTonic bug fix is approved by Chrome Web Store</strong> <br /> Your extension will auto-update within 5 hours."
+    "status": 200,
+    "message": "<strong>TranscripTonic is running</strong> <br /> Do not turn off captions"
 }
