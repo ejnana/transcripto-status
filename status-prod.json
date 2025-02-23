@@ -1,4 +1,4 @@
 {
     "status": 400,
-    "message": "<strong>TranscripTonic is down for bug fix</strong> <br /> It will resume automatically once the bug is fixed. Check status <a href='https://github.com/vivek-nexus/transcriptonic#readme' target='_blank'>here</a>."
+    "message": "<strong>TranscripTonic is down for bug fix (pending Chrome store review)</strong> <br /> It will resume automatically once the bug is fixed. Check status <a href='https://github.com/vivek-nexus/transcriptonic#readme' target='_blank'>here</a>."
 }
