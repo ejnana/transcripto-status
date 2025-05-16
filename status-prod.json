@@ -1,4 +1,4 @@
 {
     "status": 400,
-    "message": "<strong>TranscripTonic is down for bug fix (fix pending Chrome Store review)</strong> <br /> It will resume automatically once the bug is fixed. Check status <a href='https://github.com/vivek-nexus/transcriptonic#readme' target='_blank'>here</a>. <br /> <br /> <strong>In the meantime, you can use the unpacked version of the extension. Instructions provided <a href='https://github.com/vivek-nexus/transcriptonic#installing-unpacked-extension' target='_blank'>here</a>."
+    "message": "<strong>TranscripTonic is down for bug fix (fix pending Chrome Store review)</strong> <br /> It will resume automatically once the bug is fixed. Check status <a href='https://github.com/vivek-nexus/transcriptonic#readme' target='_blank'>here</a>. <br /> <br /> <strong>In the meantime, you can use the unpacked version of the extension. Instructions <a href='https://github.com/vivek-nexus/transcriptonic#installing-unpacked-extension' target='_blank'>here</a>."
 }
