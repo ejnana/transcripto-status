@@ -1,4 +1,4 @@
 {
-    "status": 400,
-    "message": "<strong>TranscripTonic is down for bug fix</strong> <br /> It will resume automatically once the bug is fixed.  Check status <a href='https://github.com/vivek-nexus/transcripto#readme' target='_blank'>here</a>."
+    "status": 200,
+    "message": "<strong>TranscripTonic is running</strong> <br /> Do not turn off captions"
 }
