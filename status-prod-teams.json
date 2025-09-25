@@ -1,0 +1,5 @@
+{
+    "status": 200,
+    "message": "TranscripTonic is ready <br /> <b><span style='color:#FFA726'>Please switch on Teams captions to begin (More > Captions)</span></b>",
+    "minVersion" : "3.2.2"
+}
