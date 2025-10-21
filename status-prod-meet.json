@@ -1,5 +1,5 @@
 {
     "status": 200,
     "message": "<b>TranscripTonic is running</b> <br /> Do not turn off captions",
-    "minVersion" : "3.2.3"
+    "minVersion" : "3.2.5"
 }
