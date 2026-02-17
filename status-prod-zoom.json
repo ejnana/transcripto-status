@@ -1,4 +1,5 @@
 {
     "status": 400,
-    "message": "<strong>TranscripTonic (Zoom only) is down for bug fix (fix pending Chrome Store review)</strong> <br /> It will resume automatically once the bug is fixed."
+    "message": "<strong>TranscripTonic (Zoom only) is down for bug fix (fix pending Chrome Store review)</strong> <br /> It will resume automatically once the bug is fixed.",
+    "minVersion" : "3.2.11"
 }
