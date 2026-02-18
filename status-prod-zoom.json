@@ -1,5 +1,5 @@
 {
-    "status": 400,
-    "message": "<strong>TranscripTonic (Zoom only) is down for bug fix (fix pending Chrome Store review)</strong> <br /> It will resume automatically once the bug is fixed.",
-    "minVersion" : "3.2.11"
+    "status": 200,
+    "message": "TranscripTonic is ready <br /> <b><span style='color:#FFA726'>Please switch on Zoom captions to begin (More > Captions)</span></b>",
+    "minVersion" : "3.2.14"
 }
