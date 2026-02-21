@@ -2,5 +2,5 @@
     "status": 200,
     "message": "<b>TranscripTonic is running</b> <br /> Do not turn off captions",
     "minVersion" : "3.2.11",
-    "showBetaMessage" : true
+    "showBetaMessage" : false
 }
