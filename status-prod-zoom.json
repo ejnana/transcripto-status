@@ -1,5 +1,5 @@
 {
     "status": 200,
     "message": "TranscripTonic is ready <br /> <b><span style='color:#FFA726'>Please switch on Zoom captions to begin (More > Captions)</span></b>",
-    "minVersion" : "3.2.14"
+    "minVersion" : "3.3.0"
 }

@@ -1,5 +1,5 @@
 {
     "status": 200,
     "message": "<b>TranscripTonic is ready, enabling captions...</b> <br /> Please enable manually if not successful (More > Captions)",
-    "minVersion" : "3.2.11"
+    "minVersion" : "3.3.0"
 }
