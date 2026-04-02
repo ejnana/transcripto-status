@@ -1,6 +1,6 @@
 {
     "status": 200,
-    "message": "<b>TranscripTonic is running</b> <br /> Do not turn off captions <br /><br /> Chat messages are currently not saved with new Meet chat",
+    "message": "<b>TranscripTonic is running</b> <br /> Do not turn off captions",
     "minVersion" : "3.3.0",
     "showBetaMessage" : false
 }
