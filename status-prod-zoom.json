@@ -1,5 +1,5 @@
 {
-    "status": 200,
-    "message": "TranscripTonic is ready <br /> <b><span style='color:#FFA726'>Please switch on Zoom captions to begin (More > Captions)</span></b>",
+    "status": 400,
+    "message": "<b>TranscripTonic is disabled due to Zoom UI changes</b> <br /> <span style='color:#FFA726'>Fix in progress</span>",
     "minVersion" : "3.3.0"
 }
